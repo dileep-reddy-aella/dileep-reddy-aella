@@ -15,10 +15,17 @@
 
 <br>
 
-### You can reach me at email in my github profile or through linkedin
+### You can reach me at email in my github profile or through socials
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Dileep on LinkedIn" title="Follow Dileep on LinkedIn"/>](https://linkedin.com/in/sai-dileep-reddy-aella)
+[<img align="left" alt="Follow Dileep on Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Follow Dileep on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Follow Dileep on Stack overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
+
+<br><br>
 
 [![Dileep's GitHub stats](https://github-readme-stats.vercel.app/api?username=dileep-reddy-aella&hide=prs,stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[instagram]: https://www.instagram.com/dileep._.reddy
+[linkedin]: https://linkedin.com/in/sai-dileep-reddy-aella
+[stackoverflow]: https://stackoverflow.com/users/14095218/dileep-reddy
