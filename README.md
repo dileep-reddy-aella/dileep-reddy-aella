@@ -24,7 +24,7 @@
 
 <br><br>
 
-[![Dileep's GitHub stats](https://github-readme-stats.vercel.app/api?username=dileep-reddy-aella&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Dileep's GitHub stats](https://github-readme-stats.vercel.app/api?username=dileep-reddy-aella&hide=stars&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/dileep._.reddy
 [linkedin]: https://linkedin.com/in/sai-dileep-reddy-aella
