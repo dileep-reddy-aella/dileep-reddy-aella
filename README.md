@@ -20,7 +20,7 @@
 [<img align="left" alt="Follow Dileep on Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Follow Dileep on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Follow Dileep on Stack overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-
+[**torre**][torre]
 
 <br><br>
 
@@ -29,3 +29,4 @@
 [instagram]: https://www.instagram.com/dileep._.reddy
 [linkedin]: https://linkedin.com/in/sai-dileep-reddy-aella
 [stackoverflow]: https://stackoverflow.com/users/14095218/dileep-reddy
+[torre]: https://torre.co/saidileepreddyaella?utm_source=copy-paste
