@@ -1,6 +1,6 @@
 ## Hey...I'm Dileep! :wave:
 
-### :book: A Front-end developer drifting towards Full stack
+### :book: Learning new things everyday
 
 ![](https://komarev.com/ghpvc/?username=dileep-reddy-aella&color=green)
 
